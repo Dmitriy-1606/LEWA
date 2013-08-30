@@ -23,9 +23,9 @@
     <string name="sd_mount_usbstorage">Подключить USB-накопитель</string>
     <string name="sd_insert_usb_summary">Вставить USB-накопитель</string>
     <string name="usb_ums_title">USB-накопитель</string>
-    <string name="usb_ums_summary">Рекомендуется ОС Windows XP или новее. Это позволит передавать файлы между компьютером и USB-накопителем телефона</string>
+    <string name="usb_ums_summary">Рекомендуется Windows XP или новее. Это позволит передавать файлы между компьютером и памятью телефона</string>
     <string name="usb_charge_title">Только зарядка</string>
-    <string name="usb_charge_summary">Остановить все USB функции. Это позволит ускорить USB-зарядку и снизить энергопотребление.</string>
+    <string name="usb_charge_summary">Остановить все USB-функции. Это позволит ускорить USB-зарядку и снизить энергопотребление</string>
     <string name="NI_Request_ID">ID клиента сервера</string>
     <string name="NI_Request_ClientName">Имя клиента</string>
     <string name="agps_str_verify">Проверка</string>
@@ -1171,6 +1171,7 @@
     <string name="search_settings_summary">Управление параметрами поиска и историей</string>
     <string name="display_settings">Параметры экрана</string>
     <string name="accelerometer_title">Автоповорот экрана</string>
+    <string name="nightmode_title">Ночной режим</string>
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="brightness">Яркость</string>
@@ -1289,9 +1290,9 @@
     <string name="storage_title_usb">USB-подключение к компьютеру</string>
     <string name="usb_connection_category">Подключить как</string>
     <string name="usb_mtp_title">Мультимедиа-устройство (MTP)</string>
-    <string name="usb_mtp_summary">Рекомендуется ОС WIN7 или более новой версии, в ОС XP сначала требуется установить драйверы. Позволяет выполнять файловые операции одновременно на телефоне и компьютере.</string>
+    <string name="usb_mtp_summary">Windows 7 или новее, в Windows XP потребуются  драйверы. Выполнение файловых операций одновременно на телефоне и компьютере</string>
     <string name="usb_ptp_title">Камера</string>
-    <string name="usb_ptp_summary">Позволяет передавать фотографии с помощью программного обеспечения камеры, а также передавать любые файлы на компьютеры, которые не поддерживают MTP</string>
+    <string name="usb_ptp_summary">Передача фотографий через ПО камеры, а также передача любых файлов на компьютеры, которые не поддерживают MTP</string>
     <string name="usb_label_installer_cd">Установить средства передачи файлов</string>
     <string name="storage_other_users">Другие пользователи</string>
     <string name="battery_status_title">Состояние батареи</string>

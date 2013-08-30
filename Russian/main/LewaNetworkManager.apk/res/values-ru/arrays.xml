@@ -7,11 +7,11 @@
         <item>ccmni+</item>
         <item>rmnet+</item>
     </string-array>
-    <string-array name="pref_adjust_interval">
-        <item>Нет</item>
+    <array name="pref_adjust_interval">
+        <item>@string/adjust_interval_none</item>
         <item>День</item>
         <item>Месяц</item>
-    </string-array>
+    </array>
     <string-array name="detail_times">
         <item>@string/time_today</item>
         <item>@string/time_month</item>

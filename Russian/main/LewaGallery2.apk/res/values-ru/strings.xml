@@ -194,7 +194,8 @@
     <string name="video_3d_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="pref_stereo3d_video_quality_default">11</string>
     <string name="pref_camera_picturesize_stereo3d_title">Формат Stereo3D</string>
-    <string name="pref_camera_picturesize_entry_3264x1836">8 Мпикс.</string>
+    <string name="pref_camera_picturesize_entry_4224x3168">13.3 Мпикс.</string>
+   <string name="pref_camera_picturesize_entry_3264x1836">8 Мпикс.</string>
     <string name="pref_camera_picturesize_entry_2592x1458">5 Мпикс.</string>
     <string name="pref_camera_picturesize_entry_2048x1152">3 Мпикс.</string>
     <string name="pref_camera_picturesize_entry_1600x900">2 Мпикс.</string>
@@ -468,6 +469,7 @@
     <string name="setascontact_photo">Установить как фото контакта</string>
     <string name="setas_wallpaper">Установить как обои</string>
     <string name="album_not_has_image">В этом альбоме нет изображений, выберите другой альбом</string>
+    <string name="mirror_click_toast">Изображение можно перевернуть</string>
     <string name="audio_not_supported">Не удалось проиграть аудио.</string>
     <string name="can_not_trim">Возникла ошибка, видео не может быть обрезано</string>
     <string name="settings">Настройки</string>
