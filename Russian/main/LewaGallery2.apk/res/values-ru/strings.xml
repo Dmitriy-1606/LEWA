@@ -470,7 +470,8 @@
     <string name="setas_wallpaper">Установить как обои</string>
     <string name="album_not_has_image">В этом альбоме нет изображений, выберите другой альбом</string>
     <string name="mirror_click_toast">Изображение можно перевернуть</string>
-    <string name="audio_not_supported">Не удалось проиграть аудио.</string>
+    <string name="no_other_album">Нет альбома для отображения</string>
+    <string name="audio_not_supported">Не удалось проиграть аудио</string>
     <string name="can_not_trim">Возникла ошибка, видео не может быть обрезано</string>
     <string name="settings">Настройки</string>
     <string name="setp_option_name">Шаг</string>

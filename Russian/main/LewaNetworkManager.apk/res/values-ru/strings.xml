@@ -49,7 +49,8 @@
     <string name="pref_adjust_settings">Автоматическая синхронизация</string>
     <string name="pref_adjust_regularly">Период измерения</string>
     <string name="background_warning_title">Фоновая передача данных</string>
-    <string name="background_warning_content">"Передано>1 Mб, проверьте приложения"</string>
+    <string name="background_warning_content">"Передано>1 Mб, 
+проверьте приложения"</string>
     <string name="background_warning_close_content">Если выключить предупреждение о фоновой передаче данных, то Вы не будете знать об этом. Это может привести к неконтролируемому расходу мобильного трафика. Вы точно хотите выключить?</string>
     <string name="pref_data_warning">Настройка уровня предупреждения</string>
     <string name="notify_data_warning">Осталось мало трафика</string>
@@ -123,6 +124,7 @@
     <string name="donot_show_system_app">Не показывать сист. приложения</string>
     <string name="daily_remain_suffix">(динамично)</string>
     <string name="adjust_interval_none">Никогда</string>
+    <string name="correct_failed">Синхронизация использования 3G не удалась. Пробуйте снова</string>
     <string name="megabyteShort">Мб</string>
     <string name="gigabyteShort">Гб</string>
     <string name="zero_percent">0%</string>

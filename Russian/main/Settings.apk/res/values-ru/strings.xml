@@ -1172,6 +1172,8 @@
     <string name="display_settings">Параметры экрана</string>
     <string name="accelerometer_title">Автоповорот экрана</string>
     <string name="nightmode_title">Ночной режим</string>
+    <string name="nightmodecolor_title">Цвета ночного режима</string>
+    <string name="summary_nightmode_value">%1$s</string>
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="brightness">Яркость</string>
