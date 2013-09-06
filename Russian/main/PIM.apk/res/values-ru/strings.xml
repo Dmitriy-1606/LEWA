@@ -1320,7 +1320,6 @@
     <string name="label_show_smart_avatar">Показывать умный аватар</string>
     <string name="description_list_not_show_more_info">Не показывать принадлежность аватара</string>
     <string name="description_show_smart_avatar">Автоматически добавлять умный аватар, если не задан обычный</string>
-    <string name="importing_vcard_finished_title">Импорт vCard закончен</string>
     <string name="importing_vcard_finished_description">Сохранено в %s。</string>
     <string name="dialpad_call">Вызов</string>
     <string name="twelve_hour_time_format">h:mma</string>
