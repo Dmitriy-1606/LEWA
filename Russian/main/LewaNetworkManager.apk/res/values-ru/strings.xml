@@ -124,7 +124,8 @@
     <string name="donot_show_system_app">Не показывать сист. приложения</string>
     <string name="daily_remain_suffix">(динамично)</string>
     <string name="adjust_interval_none">Никогда</string>
-    <string name="correct_failed">Синхронизация использования 3G не удалась. Пробуйте снова</string>
+    <string name="correct_failed">Синхронизация использования 3G-данных не удалась. Пожалуйста, попробуйте снова.</string>
+    <string name="correct_success">Синхронизация использования 3G-данных прошла успешно</string>
     <string name="megabyteShort">Мб</string>
     <string name="gigabyteShort">Гб</string>
     <string name="zero_percent">0%</string>

@@ -238,4 +238,7 @@
     <string name="notifilter_item_activity">Менеджер уведомлений</string>
     <string name="notifilter_cloudloading">Идет загрузка Облака...</string>
     <string name="notifilter_cloudlasttime">посл. синхр-ция:</string>
+    <string name="otg_to_filemanager">Нажмите для запуска файлового менеджера</string>
+    <string name="otg_connect">USB-хранилище подключено</string>
+    <string name="otg_unmount">Безопасное извлечение</string>
 </resources>

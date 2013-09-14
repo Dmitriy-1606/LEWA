@@ -231,4 +231,6 @@
     <string name="log_today">Сегодня</string>
     <string name="log_yesterday">Вчера</string>
     <string name="log_beforeyesterday">Ранее</string>
+    <string name="recovering_to_msg_list">Восстановление в цепочки сообщений....</string>
+    <string name="recovering_to_calllog">Восстановление в журнал вызовов....</string>
 </resources>
