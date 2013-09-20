@@ -1174,8 +1174,8 @@
     <string name="nightmode_title">Ночной режим</string>
     <string name="nightmodecolor_title">Цвета ночного режима</string>
     <string name="summary_nightmode_value">%1$s</string>
-    <string name="inadvertmode_title">Ненужные нажатия</string>
-    <string name="inadvertmode_msg">Предупреждать ненужные нажатия, когда телетфон в кармане</string>
+    <string name="inadvertmode_title">Контроль случайных нажатий</string>
+    <string name="inadvertmode_msg">Исключить случайные нажатия, когда телефон в кармане</string>
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="brightness">Яркость</string>
