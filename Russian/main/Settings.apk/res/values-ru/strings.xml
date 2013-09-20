@@ -1140,8 +1140,8 @@
     <string name="media_volume_summary">Установка уровня громкости для музыки и видео</string>
     <string name="alarm_volume_title">Сигнал</string>
     <string name="dock_settings_summary">Параметры аудио для прикрепленной док-станции</string>
-    <string name="dtmf_tone_enable_title">Звуки касаний номерного поля</string>
-    <string name="sound_effects_enable_title">Звуки касаний</string>
+    <string name="dtmf_tone_enable_title">Звук при наборе номера</string>
+    <string name="sound_effects_enable_title">Звук касаний экрана</string>
     <string name="lock_sounds_enable_title">Звук блокирования экрана</string>
     <string name="haptic_feedback_enable_title">Вибрация при касании</string>
     <string name="audio_record_proc_title">Шумоподавление</string>
@@ -2394,7 +2394,7 @@
     <string name="ACCOUNT_LABEL">Lewa Pond</string>
     <string name="lewa_account">Lewa аккаунт</string>
     <string name="dialog_already_registered">Вы уже вошли. Если вы хотите использовать другой ID, пожалуйста, выйдите сначала из активного аккаунта</string>
-    <string name="haptic_feedback_enable_summary">Вибрация при нажатии кнопок и экрана</string>
+    <string name="haptic_feedback_enable_summary">Вибрация при нажатии кнопок</string>
     <string name="key_label">Софт-клавиши</string>
     <string name="keyboard_lights_title">Подсветка кнопок</string>
     <string name="keyboard_lights_summary">Включить подсветку софт клавиш</string>
