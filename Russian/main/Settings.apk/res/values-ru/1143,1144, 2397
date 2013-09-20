@@ -1,0 +1,3 @@
+<string name="dtmf_tone_enable_title">Звук при наборе номера</string>
+<string name="sound_effects_enable_title">Звук касаний экрана</string>
+<string name="haptic_feedback_enable_summary">Вибрация при нажатии кнопок</string>
