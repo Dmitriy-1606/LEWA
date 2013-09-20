@@ -6,7 +6,7 @@
     <string name="permession_manage_title">Управление доступом</string>
     <string name="check_database_update">Проверка обновлений</string>
     <string name="delete">Удалить</string>
-    <string name="install_monitor">Установить монитор</string>
+    <string name="install_monitor">Запустить монитор</string>
     <string name="timer_scan">Сканирование по расписанию</string>
     <string name="omission">Скоро</string>
     <string name="logo_engine">Движок антивируса от Tencent Mobile Manager</string>
@@ -25,7 +25,7 @@
     <string name="gap_error_notice">Предыдущее сканирование: %s</string>
     <string name="scan_just_now">Только что просканировано</string>
     <string name="defense_monitor_open">Монитор запущен</string>
-    <string name="defense_monitor_close1">Монитор запущен частично</string>
+    <string name="defense_monitor_close1">Монитор остановлен</string>
     <string name="defense_monitor_close2">Неполная защита</string>
     <string name="scan_counts">Проверено:</string>
     <string name="scan_time">Время:</string>
