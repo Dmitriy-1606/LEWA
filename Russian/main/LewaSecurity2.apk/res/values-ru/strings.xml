@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Центр безопасности</string>
-    <string name="main_page">Дом. страница</string>
+    <string name="main_page">Оптимизация</string>
     <string name="details">Детали</string>
     <string name="app_virus_difense">Антивирус</string>
     <string name="app_intercept">Перехватчик</string>
@@ -38,7 +38,7 @@
     <string name="state_detecting">Проверка...</string>
     <string name="goto_details">Посмотреть детали</string>
     <string name="clearance_calculate_state">Подсчет %s</string>
-    <string name="oneclick_optimize">Оптимизация</string>
+    <string name="oneclick_optimize">Старт</string>
     <string name="clearance_garbage_size">К удалению %1$s ненужных файлов</string>
     <string name="clearance_garbage_cleared">%1$s ненужных файлов удалено</string>
     <string name="dialog_title">Уведомление Центра безопасности</string>
